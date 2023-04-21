@@ -1,0 +1,11 @@
+{
+  "name": "sandbox_documentacion",
+  "version": "0.0.1",
+  "description": "Sandbox para el proyecto aprendizaje de documentacion ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Diego Barreto",
+  "license": "ISC"
+}
