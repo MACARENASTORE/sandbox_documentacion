@@ -33,5 +33,6 @@
 //npm install prisma-json-schema-generator --save-dev
 //npm run jsonchema
 
+//instalar cors 
 //npm install cors
-//npm install --save-dev @type/cors
+//npm install --save-dev @types/cors

@@ -47,6 +47,7 @@ class PacienteController{
             res.json({error:e.message})
         }
     }
+    
 }
 
 
