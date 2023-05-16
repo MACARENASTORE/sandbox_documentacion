@@ -16,3 +16,13 @@
 
 //npm install --save-dev jest ts-jest supertest @types/jest @types/supertest
 
+let q:number
+
+q=5
+console.log(q)
+
+//convierte en javascript
+//tsc repaso.ts
+
+//instalar paquete npm install -g ts-node
+// ts-node repaso.ts
